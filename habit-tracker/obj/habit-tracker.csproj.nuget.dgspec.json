@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj": {}
+    "E:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj": {}
   },
   "projects": {
-    "e:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj": {
+    "E:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj",
+        "projectUniqueName": "E:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj",
         "projectName": "habit-tracker",
-        "projectPath": "e:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj",
+        "projectPath": "E:\\Programming\\Habit-Tracker\\habit-tracker\\habit-tracker.csproj",
         "packagesPath": "C:\\Users\\Saxby\\.nuget\\packages\\",
-        "outputPath": "e:\\Programming\\Habit-Tracker\\habit-tracker\\obj\\",
+        "outputPath": "E:\\Programming\\Habit-Tracker\\habit-tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
