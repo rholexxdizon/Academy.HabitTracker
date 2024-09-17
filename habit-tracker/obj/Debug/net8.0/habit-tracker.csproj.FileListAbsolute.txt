@@ -38,3 +38,4 @@ e:\Programming\Habit-Tracker\habit-tracker\bin\Debug\net8.0\runtimes\win-x64\nat
 e:\Programming\Habit-Tracker\habit-tracker\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 e:\Programming\Habit-Tracker\habit-tracker\obj\Debug\net8.0\habit-tracker.csproj.AssemblyReference.cache
 e:\Programming\Habit-Tracker\habit-tracker\obj\Debug\net8.0\habit-tr.1D858CB6.Up2Date
+e:\Programming\Habit-Tracker\habit-tracker\obj\Debug\net8.0\habit-tracker.sourcelink.json
